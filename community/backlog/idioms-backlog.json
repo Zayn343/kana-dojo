@@ -917,7 +917,7 @@
     "meaning": "Feel indebted or unable to oppose someone. (Set 6)",
     "id": 102,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "腰が重い",
@@ -926,7 +926,7 @@
     "meaning": "Slow to start doing something. (Set 6)",
     "id": 103,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "顔が広い",
@@ -935,7 +935,7 @@
     "meaning": "Have many connections. (Set 6)",
     "id": 104,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "口が堅い",
@@ -1051,7 +1051,7 @@
     "english": "Let it flow in water",
     "meaning": "Let bygones be bygones. (Set 6)",
     "id": 117,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
