@@ -59,7 +59,7 @@
     "romaji": "Keizoku wa chikara nari",
     "english": "Continuation is power",
     "meaning": "Persistence leads to strength and success",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -68,7 +68,7 @@
     "romaji": "Isogaba maware",
     "english": "If in a hurry, go around",
     "meaning": "Taking the safer, longer route is sometimes faster",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -96,7 +96,7 @@
     "english": "Time is money",
     "meaning": "Time is valuable and should not be wasted",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 12,
